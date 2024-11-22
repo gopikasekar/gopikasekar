@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gopika</h1>
 <h3 align="center">Tech enthusiast diving into the world of machine learning. Let's build the future, one algorithm at a time.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gopikasekar&label=Profile%20views&color=0e75b6&style=flat" alt="gopikasekar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopikasekar" alt="gopikasekar" /></a> </p>
 
 - 🔭 I’m currently working on **Hyperparameter-Tuned SGD and GB Techniques for Enhanced Accuracy in Mental Health Support**
 
